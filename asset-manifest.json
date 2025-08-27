@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Saurav-dot-dot/resturant/static/css/main.eb61b920.css",
+    "main.js": "/Saurav-dot-dot/resturant/static/js/main.4762ee2e.js",
+    "index.html": "/Saurav-dot-dot/resturant/index.html",
+    "main.eb61b920.css.map": "/Saurav-dot-dot/resturant/static/css/main.eb61b920.css.map",
+    "main.4762ee2e.js.map": "/Saurav-dot-dot/resturant/static/js/main.4762ee2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb61b920.css",
+    "static/js/main.4762ee2e.js"
+  ]
+}
